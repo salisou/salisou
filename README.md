@@ -10,7 +10,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=salisou&" alt="salisou" /></p-->
 
-
+## contribuzione per Sanke graph
 ![snake gif](https://raw.githubusercontent.com/akshaynarisetti/akshaynarisetti/output/github-contribution-grid-snake.svg)
 
 <a><h2>Stats</h2></a>
@@ -78,9 +78,7 @@
 
 </br>
 </br>
-## Mio contribuzione per Sanke graph
-![snake gif](https://github.com/salisou/salisou/blob/output/github-contribution-grid-snake.gif)
-</br>
+
 
 </br>
 <h3 align="left">Support:</h3>
