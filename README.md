@@ -69,15 +69,18 @@
 </br>
 
 ### Connect with me  :coffee:
-<!--p align="center">
-	<a aling="center" href="https://github.com/salisou"><img src="https://user-images.githubusercontent.com/58532023/171219272-a68dd897-a9c7-4826-b7e6-10ef84e6a0a8.png" alt="GitHub"/></a>
-	<a href="https://www.linkedin.com/in/moussa-salisou/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BXZWSbAnNRyGbxHzvON9nGA%3D%3D"><img src="https://user-images.githubusercontent.com/58532023/171219303-8839f911-21bf-453f-b517-9dd6ef9a873c.png" alt="LinkedIn"/></a>
-</p-->
 <p align="center">
 <a href="https://twitter.com/@salisoumoussa7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="salisoumoussa7@" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/moussa-salisou/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/moussa-salisou/" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/https://stackoverflow.com/users/14309667/moussa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/14309667/moussa" height="30" width="40" /></a>
 </p>
+
+
+</br>
+</br>
+# Mio contribuzione per Sanke graph
+![snake gif](https://github.com/YOUR_USERNAME/salisou/blob/output/github-contribution-grid-snake.gif)
+
 
 </br>
 
