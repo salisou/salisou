@@ -1,34 +1,6 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="300px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 
-
- 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <h1 align="center">Ciao 👋 , sono Moussa</h1>
 <h3 align="center">Sono un appassionato sviluppatore frontend e Backend</h3>
 
@@ -91,6 +63,7 @@
 	
 <div>
     <a><h2>Trophies</h2></a>
+<p align="center"><img width="140" src="https://user-images.githubusercontent.com/6661165/91657958-61b4fd00-eb00-11ea-9def-dc7ef5367e34.png" /> </p>
     <a href="https://github.com/ryo-ma/github-profile-trophy">
         <img aling="center" width="98%" alt="Trophy" src="https://github-profile-trophy.vercel.app/?username=salisou&row=4&theme=onedark&no-frame=true"/>
 </div>
@@ -116,7 +89,7 @@
 
 
 </br>
-<h3 align="left">Support:</h3>
+<h3 align="left">Support Me:</h3>
 <p><a aling="center" href="https://www.buymeacoffee.com/salisoumouW"> <img aling="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Moussa" /></a><a href="https://ko-fi.com/salisoumoussa"> <img aling="center" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="saliou" /></a></p><br><br>
 
 
