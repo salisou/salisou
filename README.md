@@ -1,7 +1,40 @@
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="300px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <h1 align="center">Ciao 👋 , sono Moussa</h1>
 <h3 align="center">Sono un appassionato sviluppatore frontend e Backend</h3>
 
-<p align="center"> <img src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif" alt="salisou" /> </p>
+<p align="center"> <img src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif" width="100%" height="30%" alt="salisou" />  </p>
+
+
 
 <!--p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=salisou" alt="salisou" /></a> </p-->
 
@@ -42,8 +75,10 @@
 
 ## **Tech Toolbox 🧰**<br>
 
-<p align='center'>
-<img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="200" height="200" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
+<p align='center'><img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="200" height="200" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
+<!--img src="https://media1.tenor.com/images/7f7f2882899755a705a2953b6fcfc263/tenor.gif?itemid=5662740" width="100%" height="100%" frameBorder="0" class="giphy-embed" allowFullScreen></img-->
+
+
 
 <p aling="center">
 <h3 aling="center">Conoscenza:</h3 >
@@ -91,3 +126,6 @@
 
 ![HEY, I'M AKSHAY (1)](https://user-images.githubusercontent.com/58532023/170817094-f9208f31-7889-49c9-81ae-2db37213902a.svg)
 ![](https://hit.yhype.me/github/profile?user_id=58532023)
+
+
+<!--p align="center"><img src="https://i.pinimg.com/originals/cb/67/e9/cb67e94f7dc44ac7ea0c333a8e44fc1f.gif"/></p-->
