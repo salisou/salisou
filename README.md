@@ -1,9 +1,9 @@
 <h1 align="center">Ciao 👋 , sono Moussa</h1>
 <h3 align="center">Sono un appassionato sviluppatore frontend e Backend</h3>
 
-<!--p align="center"> <img src="https://komarev.com/ghpvc/?username=salisou&label=Profile%20views&color=0e75b6&style=flat" alt="salisou" /> </p>
+<p align="center"> <img src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif" alt="salisou" /> </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=salisou" alt="salisou" /></a> </p-->
+<!--p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=salisou" alt="salisou" /></a> </p-->
 
 
 <!--p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=salisou&show_icons=true&locale=en" alt="salisou" /></p>
