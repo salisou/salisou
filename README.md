@@ -45,7 +45,7 @@
 </br>
 
 
-## **Tech Toolbox 🧰**<br>
+## **🧰**<br>
 
 <p align='center'><img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="200" height="200" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
 <!--img src="https://media1.tenor.com/images/7f7f2882899755a705a2953b6fcfc263/tenor.gif?itemid=5662740" width="100%" height="100%" frameBorder="0" class="giphy-embed" allowFullScreen></img-->
