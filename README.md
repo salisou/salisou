@@ -2,7 +2,9 @@
 
 
 <h1 align="center">Ciao 👋 , sono Moussa</h1>
-<h3 align="center">Sono un appassionato sviluppatore frontend e Backend</h3>
+<h3 align="center">Sono un appassionato sviluppatore, Programmatore Software Developer & Full Stack Developer</h3>
+
+
 
 <p align="center"> <img src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif" width="100%" height="30%" alt="salisou" />  </p>
 
@@ -34,7 +36,7 @@
 
   
  </br>
-
+<!--
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=salisou&theme=react-dark&custom_title=My%20Contributions%20Graph%20is%20like%20a%20Rollercoster%20Ride&bg_color=3333cc&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true)  
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -43,9 +45,22 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </br>
+-->
+
+## Progetti su GitHub<br>
+### BambiMam
+![BambiMam](https://github.com/salisou/BambiMam/blob/master/Home.png)
+
+### Travel App - UI Challenge
+![BambiMam](https://github.com/salisou/TravelApp/blob/master/TravelApp/HomePage.png)
+
+### ASP.NET Web Application With SQL Server and CRUD Operations Query
+![BambiMam](https://github.com/salisou/Web-app-MyStore/blob/master/Immagine2.png )
+![BambiMam](https://github.com/salisou/Web-app-MyStore/raw/master/Immagine1.png)
 
 
-## **🧰**<br>
+
+
 
 <p align='center'><img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="200" height="200" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
 <!--img src="https://media1.tenor.com/images/7f7f2882899755a705a2953b6fcfc263/tenor.gif?itemid=5662740" width="100%" height="100%" frameBorder="0" class="giphy-embed" allowFullScreen></img-->
