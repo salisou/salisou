@@ -48,6 +48,11 @@
 -->
 
 ## Progetti su GitHub<br>
+
+## Lottie Splash Screen 
+![BambiMam](https://github.com/salisou/LottieSplashScreen/blob/master/LottieSplashScreen/Video/animation.gif)
+
+
 ### BambiMam
 ![BambiMam](https://github.com/salisou/BambiMam/blob/master/Home.png)
 
