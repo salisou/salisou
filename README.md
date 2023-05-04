@@ -71,6 +71,7 @@ Cosa è stato utilizzato nello sviluppo:
 
 ![delivery_android](https://github.com/salisou/MauiPlugingExpresionPanel/blob/master/Cattura.PNG?raw=true)
 ![delivery_android2](https://github.com/salisou/MauiPlugingExpresionPanel/blob/master/Cattura2.PNG?raw=true)
+![delivery_android2](https://github.com/salisou/MauiPlugingExpresionPanel/blob/master/CollectionView.PNG)
 
 ## Lottie Splash Screen 
 ![BambiMam](https://github.com/salisou/LottieSplashScreen/blob/master/LottieSplashScreen/Video/animation.gif)
