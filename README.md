@@ -87,6 +87,11 @@ Cosa è stato utilizzato nello sviluppo:
 ### MauiDemoAppBurguer
 ![delivery_android](https://github.com/salisou/MauiDemoAppBurguer/blob/master/ImageProject.PNG)
 
+
+-.Net Maui PerfetPay Application https://github.com/salisou/MauiPerfetPay
+![MauiPerfetPay](https://github.com/salisou/MauiPerfetPay/blob/master/MauiPerfetPay/Imgaes/PerfertPay.PNG)
+
+
 ## Xamarin-Forms-Calculator
 Doing my first steps in Mobile Development with Xamarin Forms
 
