@@ -91,6 +91,9 @@ Cosa è stato utilizzato nello sviluppo:
 -.Net Maui PerfetPay Application https://github.com/salisou/MauiPerfetPay
 ![MauiPerfetPay](https://github.com/salisou/MauiPerfetPay/blob/master/MauiPerfetPay/Imgaes/PerfertPay.PNG)
 
+-.net Maui BMI Calculator https://github.com/salisou/MauiAppBMI.App
+![BMI Calculator](https://github.com/salisou/MauiAppBMI.App/blob/master/BMIApp.PNG?raw=true)
+
 
 ## Xamarin-Forms-Calculator
 Doing my first steps in Mobile Development with Xamarin Forms
