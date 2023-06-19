@@ -59,14 +59,27 @@ Cosa è stato utilizzato nello sviluppo:
 - CollectionView (https://learn.microsoft.com/it-it/xamarin/xamarin-forms/user-interface/collectionview/)
 - Forme (Path) - Funzionalità Nova Xamarin.Forms
 - XamarinForms Ultima verzione
+# 
+<img aling="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</br>
+
 
 ## Screenshots
 ### Android
 ![delivery_android](https://github.com/salisou/XFDelivery/blob/master/XFDelivery/image1.png?raw=true)
 ![delivery_android2](https://github.com/salisou/XFDelivery/blob/master/XFDelivery/image2.png?raw=true)
 
+</br>
+<img aling="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+![UnitConverter1](https://github.com/salisou/MauiVerter.App/blob/master/Images/MenuConvertter.PNG?raw=true)
+![UnitConverter2](https://github.com/salisou/MauiVerter.App/blob/master/Images/typeConverter.PNG?raw=true)
+- Maui Unit Convert App https://github.com/salisou/MauiVerter.App
 
+</br>
+</br>
+<img aling="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</br>
 [.NET MAUI] Presentazione di come utilizzare Expander
 
 ![delivery_android](https://github.com/salisou/MauiPlugingExpresionPanel/blob/master/Cattura.PNG?raw=true)
@@ -88,17 +101,12 @@ Cosa è stato utilizzato nello sviluppo:
 ![delivery_android](https://github.com/salisou/MauiDemoAppBurguer/blob/master/ImageProject.PNG)
 
 
--.Net Maui PerfetPay Application https://github.com/salisou/MauiPerfetPay
+- Net Maui PerfetPay Application https://github.com/salisou/MauiPerfetPay
 ![MauiPerfetPay](https://github.com/salisou/MauiPerfetPay/blob/master/MauiPerfetPay/Imgaes/PerfertPay.PNG)
-
-
-# Maui Unit Convert App https://github.com/salisou/MauiVerter.App
-
-![UnitConverter](https://github.com/salisou/MauiVerter.App/blob/master/Images/MenuConvertter.PNG?raw=true)
-![UnitConverter](https://github.com/salisou/MauiVerter.App/blob/master/Images/typeConverter.PNG?raw=true)
 
 -.net Maui BMI Calculator https://github.com/salisou/MauiAppBMI.App
 ![BMI Calculator](https://github.com/salisou/MauiAppBMI.App/blob/master/BMIApp.PNG?raw=true)
+
 
 
 ## Xamarin-Forms-Calculator
