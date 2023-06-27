@@ -77,7 +77,6 @@ Cosa è stato utilizzato nello sviluppo:
 - Maui Unit Convert App https://github.com/salisou/MauiVerter.App
 
 </br>
-</br>
 <img aling="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </br>
 [.NET MAUI] Presentazione di come utilizzare Expander
@@ -85,6 +84,14 @@ Cosa è stato utilizzato nello sviluppo:
 ![delivery_android](https://github.com/salisou/MauiPlugingExpresionPanel/blob/master/Cattura.PNG?raw=true)
 ![delivery_android2](https://github.com/salisou/MauiPlugingExpresionPanel/blob/master/Cattura2.PNG?raw=true)
 ![delivery_android2](https://github.com/salisou/MauiPlugingExpresionPanel/blob/master/CollectionView.PNG)
+
+
+# Maui Calculator
+![CalcLight](https://github.com/salisou/MauiCalculator.App/blob/master/CalcLight.PNG) 
+![CalcTheme](https://github.com/salisou/MauiCalculator.App/blob/master/CalcTheme.PNG)
+![CalcBlack](https://github.com/salisou/MauiCalculator.App/blob/master/CalcBlack.PNG)
+
+
 
 ## Lottie Splash Screen 
 ![BambiMam](https://github.com/salisou/LottieSplashScreen/blob/master/LottieSplashScreen/Video/animation.gif)
@@ -100,19 +107,26 @@ Cosa è stato utilizzato nello sviluppo:
 ### MauiDemoAppBurguer
 ![delivery_android](https://github.com/salisou/MauiDemoAppBurguer/blob/master/ImageProject.PNG)
 
+</br>
 
-- Net Maui PerfetPay Application https://github.com/salisou/MauiPerfetPay
-![MauiPerfetPay](https://github.com/salisou/MauiPerfetPay/blob/master/MauiPerfetPay/Imgaes/PerfertPay.PNG)
+<!--![MauiPerfetPay](https://github.com/salisou/MauiPerfetPay/blob/master/MauiPerfetPay/Imgaes/PerfertPay.PNG)-->
+<p> - Net Maui PerfetPay Application https://github.com/salisou/MauiPerfetPay </br>
+	<img src="https://github.com/salisou/MauiPerfetPay/blob/master/MauiPerfetPay/Imgaes/PerfertPay.PNG" ></img>
+ </p>
 
--.net Maui BMI Calculator https://github.com/salisou/MauiAppBMI.App
-![BMI Calculator](https://github.com/salisou/MauiAppBMI.App/blob/master/BMIApp.PNG?raw=true)
+<p> -net Maui BMI Calculator https://github.com/salisou/MauiAppBMI.App </br>
+	<img src="https://github.com/salisou/MauiAppBMI.App/blob/master/BMIApp.PNG?raw=tru" ></img>
+ </p> 
+<!--![BMI Calculator](https://github.com/salisou/MauiAppBMI.App/blob/master/BMIApp.PNG?raw=true)-->
 
 
 
 ## Xamarin-Forms-Calculator
-Doing my first steps in Mobile Development with Xamarin Forms
 
-![BambiMam](https://github.com/salisou/Caculatrice/blob/master/Caculatrice/calculatrice.gif)
+<!--![calculatrice](https://github.com/salisou/Caculatrice/blob/master/Caculatrice/calculatrice.gif)-->
+<p>- Doing my first steps in Mobile Development with Xamarin Forms</br>
+ <img src="https://github.com/salisou/Caculatrice/blob/master/Caculatrice/calculatrice.gif" width="300" height="600" ></img>
+</p>
 
 ### ASP.NET Web Application With SQL Server and CRUD Operations Query
 ![BambiMam](https://github.com/salisou/Web-app-MyStore/blob/master/Immagine2.png )
