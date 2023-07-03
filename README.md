@@ -128,6 +128,19 @@ Cosa è stato utilizzato nello sviluppo:
  <img src="https://github.com/salisou/Caculatrice/blob/master/Caculatrice/calculatrice.gif" width="300" height="600" ></img>
 </p>
 
+</br>
+# MauiCollectionViewDemo
+## Package Reference 
+- PropertyChanged.Fody
+
+
+![DataView](https://github.com/salisou/MauiCollectionViewDemo.App/blob/master/Images/DataView.PNG)
+![LayoutsPage](https://github.com/salisou/MauiCollectionViewDemo.App/blob/master/Images/LayoutsPage.PNG)
+![ProductsView](https://github.com/salisou/MauiCollectionViewDemo.App/blob/master/Images/ProductsView.PNG)
+![Switch_ConnectivityIssue](https://github.com/salisou/MauiCollectionViewDemo.App/blob/master/Images/Switch_ConnectivityIssue.PNG)
+![Switch_NoResultsView](https://github.com/salisou/MauiCollectionViewDemo.App/blob/master/Images/Switch_NoResultsView.PNG)
+
+
 ### ASP.NET Web Application With SQL Server and CRUD Operations Query
 ![BambiMam](https://github.com/salisou/Web-app-MyStore/blob/master/Immagine2.png )
 ![BambiMam](https://github.com/salisou/Web-app-MyStore/raw/master/Immagine1.png)
