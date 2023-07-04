@@ -141,6 +141,14 @@ Cosa è stato utilizzato nello sviluppo:
 ![Switch_NoResultsView](https://github.com/salisou/MauiCollectionViewDemo.App/blob/master/Images/Switch_NoResultsView.PNG)
 
 
+# MauiTasker
+
+![MainView](https://github.com/salisou/MauiTasker.App/blob/master/images/MainView.PNG)
+![AddNewTask](https://github.com/salisou/MauiTasker.App/blob/master/images/AddNewTask.PNG)
+![NewCategory](https://github.com/salisou/MauiTasker.App/blob/master/images/NewCategory.PNG)
+![ConfirYourCategory](https://github.com/salisou/MauiTasker.App/blob/master/images/ConfirYourCategory.PNG)
+
+
 ### ASP.NET Web Application With SQL Server and CRUD Operations Query
 ![BambiMam](https://github.com/salisou/Web-app-MyStore/blob/master/Immagine2.png )
 ![BambiMam](https://github.com/salisou/Web-app-MyStore/raw/master/Immagine1.png)
