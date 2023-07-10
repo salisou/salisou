@@ -119,12 +119,11 @@ Cosa è stato utilizzato nello sviluppo:
  </p> 
 <!--![BMI Calculator](https://github.com/salisou/MauiAppBMI.App/blob/master/BMIApp.PNG?raw=true)-->
 
-# Maui Navbar Animation
+# Maui Navbar Animation #1
 
 # Original design
 ![Animation1](https://github.com/salisou/Maui-Navbar-Animation/blob/main/Images/original%20design.gif)
 
-</br>
 ## My .NET MAUI implementation
 <p align="center">
     <img src="https://github.com/salisou/Maui-Navbar-Animation/blob/main/Images/navbaranimation%20gif%20720.gif" data-canonical-src="./Images/navbaranimation%20gif%20720.gif" height="600" />
@@ -135,6 +134,32 @@ Cosa è stato utilizzato nello sviluppo:
 ### Supported platforms
 
 These are all the platforms the app works on:
+
+- Android
+- iOS (macOS)
+- Windows
+
+# Navbar Animation #2
+
+## Original design
+
+[![Dribbble Design](https://github.com/salisou/NavbarAnimation2/blob/master/images/navbaranimation_original.gif)
+
+## My .NET MAUI implementation
+<p align="center">
+    <img src="https://github.com/salisou/NavbarAnimation2/blob/master/images/android_navbaranimation_2.gif" data-canonical-src="./images/android_navbaranimation_2.gif" height="600" />
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<p align="center">
+    <img src="https://github.com/salisou/NavbarAnimation2/blob/master/images/iphone_navbaranimation_2.png" data-canonical-src="./images/iphone_navbaranimation_2.gif" height="600" />
+</p>
+
+<p align="center">
+    <img src="https://github.com/salisou/NavbarAnimation2/blob/master/images/windows_navbaranimation_2.gif" data-canonical-src="./images/windows_navbaranimation_2.gif" width="600" />
+</p>
+
+### Supported platforms
+
+These are all the platforms I have tested the app on:
 
 - Android
 - iOS (macOS)
