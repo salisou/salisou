@@ -86,6 +86,12 @@ Cosa è stato utilizzato nello sviluppo:
 ![delivery_android2](https://github.com/salisou/MauiPlugingExpresionPanel/blob/master/CollectionView.PNG)
 
 
+
+# Get started building a material text entry in .NET MAUI
+
+![ControlEntry](https://github.com/salisou/MauiControlEntry/blob/master/MauiControlEntry/ControlEntry.PNG)
+
+
 # Maui Calculator
 ![CalcLight](https://github.com/salisou/MauiCalculator.App/blob/master/CalcLight.PNG) 
 ![CalcTheme](https://github.com/salisou/MauiCalculator.App/blob/master/CalcTheme.PNG)
