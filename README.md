@@ -97,6 +97,10 @@ Cosa è stato utilizzato nello sviluppo:
 ![CalcTheme](https://github.com/salisou/MauiCalculator.App/blob/master/CalcTheme.PNG)
 ![CalcBlack](https://github.com/salisou/MauiCalculator.App/blob/master/CalcBlack.PNG)
 
+# .NET MAUI UI Challenge # 7 - Coffe Shop App
+
+![](https://github.com/salisou/MauiAppCoffeShop.App/blob/master/logo.PNG)
+![](https://github.com/salisou/MauiAppCoffeShop.App/blob/master/Home.PNG)
 
 
 ## Lottie Splash Screen 
