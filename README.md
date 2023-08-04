@@ -64,6 +64,9 @@ Cosa è stato utilizzato nello sviluppo:
 </br>
 
 
+# .net maui Challenge PadBox App
+![](https://github.com/salisou/MauiPodcast/blob/master/Challenge.jpg)
+
 ## Screenshots
 ### Android
 ![delivery_android](https://github.com/salisou/XFDelivery/blob/master/XFDelivery/image1.png?raw=true)
