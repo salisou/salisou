@@ -64,7 +64,7 @@ Cosa è stato utilizzato nello sviluppo:
 </br>
 
 
-# .net maui Challenge PadBox App
+# .net maui Challenge PodBox App
 ![challenge2023](https://github.com/salisou/MauiPodcast/blob/master/Challenge.jpg)
 
 ## Screenshots
