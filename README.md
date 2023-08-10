@@ -18,7 +18,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=salisou&" alt="salisou" /></p-->
 
 ## contribuzione per Sanke graph
-![snake gif](https://raw.githubusercontent.com/salisou/salisou/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/salisou/salisou/blob/main/github-user-contribution.svg)
 
 <a><h2>Stats</h2></a>
 <div>
