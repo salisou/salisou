@@ -64,9 +64,6 @@ Cosa è stato utilizzato nello sviluppo:
 </br>
 
 
-# .net maui Challenge PodBox App
-![challenge2023](https://github.com/salisou/MauiPodcast/blob/master/Challenge.jpg)
-
 ## Screenshots
 ### Android
 ![delivery_android](https://github.com/salisou/XFDelivery/blob/master/XFDelivery/image1.png?raw=true)
@@ -74,6 +71,12 @@ Cosa è stato utilizzato nello sviluppo:
 
 </br>
 <img aling="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+
+
+# .net maui Challenge PodBox App
+![challenge2023](https://github.com/salisou/MauiPodcast/blob/master/Challenge.jpg)
+
 
 ![UnitConverter1](https://github.com/salisou/MauiVerter.App/blob/master/Images/MenuConvertter.PNG?raw=true)
 ![UnitConverter2](https://github.com/salisou/MauiVerter.App/blob/master/Images/typeConverter.PNG?raw=true)
