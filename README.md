@@ -3,7 +3,9 @@
 
 <h1 align="center">Ciao 👋 , sono Moussa</h1>
 <h3 align="center">Sono un appassionato sviluppatore, Programmatore Software Developer & Full Stack Developer</h3>
+<p>Le mie esperienze lavorative hanno consolidato le mie competenze in vari aspetti dello sviluppo software, dalla programmazione alla gestione dei database, dimostrando la capacità di lavorare sia in modo autonomo che in team. Le mie abilità includono anche la programmazione in linguaggi come C#, Python, PHP e SQL, oltre alla familiarità con tecnologie front-end e back-end, strumenti di versionamento come Git e il lavoro con sistemi operativi Linux.
 
+Sono appassionato del mio lavoro e ho dimostrato un impegno costante nell'apprendimento e nell'aggiornamento delle mie competenze, il che mi permette di offrire soluzioni tecnologiche avanzate e di alta qualità per le piccole e medie imprese.</p>
 
 
 <p align="center"> <img src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif" width="100%" height="30%" alt="salisou" />  </p>
