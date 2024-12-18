@@ -187,29 +187,6 @@ These are all the platforms I have tested the app on:
 - iOS (macOS)
 - Windows
 
-
-
-
-## Xamarin-Forms-Calculator
-
-<!--![calculatrice](https://github.com/salisou/Caculatrice/blob/master/Caculatrice/calculatrice.gif)-->
-<p>- Doing my first steps in Mobile Development with Xamarin Forms</br>
- <img src="https://github.com/salisou/Caculatrice/blob/master/Caculatrice/calculatrice.gif" width="300" height="600" ></img>
-</p>
-
-</br>
-# MauiCollectionViewDemo
-## Package Reference 
-- PropertyChanged.Fody
-
-
-![DataView](https://github.com/salisou/MauiCollectionViewDemo.App/blob/master/Images/DataView.PNG)
-![LayoutsPage](https://github.com/salisou/MauiCollectionViewDemo.App/blob/master/Images/LayoutsPage.PNG)
-![ProductsView](https://github.com/salisou/MauiCollectionViewDemo.App/blob/master/Images/ProductsView.PNG)
-![Switch_ConnectivityIssue](https://github.com/salisou/MauiCollectionViewDemo.App/blob/master/Images/Switch_ConnectivityIssue.PNG)
-![Switch_NoResultsView](https://github.com/salisou/MauiCollectionViewDemo.App/blob/master/Images/Switch_NoResultsView.PNG)
-
-
 # MauiTasker
 
 ![MainView](https://github.com/salisou/MauiTasker.App/blob/master/images/MainView.PNG)
