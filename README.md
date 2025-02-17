@@ -22,7 +22,7 @@ Sono appassionato del mio lavoro e ho dimostrato un impegno costante nell'appren
 ## contribuzione per Sanke graph
 ![snake gif](https://github.com/salisou/salisou/blob/main/github-user-contribution.svg)
 
-<a><h2>Stats</h2></a>
+<!--a><h2>Stats</h2></a>
 <div>
     <a href="https://github-readme-stats.vercel.app">
         <img width="49%" alt="Stats" src="https://github-readme-stats.vercel.app/api?&count_private=true&include_all_commits=true&username=salisou&theme=shades-of-purple&custom_title=GitHub+Stats&hide_border=true"/>
@@ -37,7 +37,7 @@ Sono appassionato del mio lavoro e ho dimostrato un impegno costante nell'appren
 <img aling="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
   
- </br>
+ </br-->
 <!--
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=salisou&theme=react-dark&custom_title=My%20Contributions%20Graph%20is%20like%20a%20Rollercoster%20Ride&bg_color=3333cc&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true)  
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
