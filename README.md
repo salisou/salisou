@@ -27,9 +27,9 @@ Sono uno sviluppatore e docente con una forte passione per la tecnologia.
 - Database design
 
 🔹 **Docenza**
-- Corsi di programmazione: Python, HTML, CSS, JavaScript, PHP e altri linguaggi
+- Corsi di programmazione: C#/.Net, Python, HTML, CSS, JavaScript, PHP, Symfony, Laravel e altri linguaggi e framework 
 - Mentoring
-- Formazione pratica senza prenotazione
+- Formazione pratica e teoria 
 <img aling="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 🚀 Progetti in evidenza
