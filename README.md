@@ -1,4 +1,4 @@
-
+![](https://github.com/salisou/salisou/blob/main/linguaggi.jpeg?raw=true)
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="400px" align="right"/>
 
