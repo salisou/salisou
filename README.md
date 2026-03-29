@@ -1,7 +1,5 @@
 
-<img aling="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## Progetti su GitHub<br>
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="400px" align="right"/>
 
 <h1 align="center">👋 Ciao, sono Moussa</h1>
@@ -17,7 +15,8 @@ Sono uno sviluppatore e docente con una forte passione per la tecnologia.
 📚 Insegno programmazione con approccio pratico  
 🎯 Sempre aggiornato sulle nuove tecnologie  
 
----
+<img aling="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 <p align="center"> <img src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif" width="100%" height="30%" alt="salisou" />  </p>
 ## 💼 Cosa faccio
 
@@ -31,8 +30,7 @@ Sono uno sviluppatore e docente con una forte passione per la tecnologia.
 - Corsi di programmazione: Python, HTML, CSS, JavaScript, PHP e altri linguaggi
 - Mentoring
 - Formazione pratica senza prenotazione
-
----
+<img aling="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 🚀 Progetti in evidenza
 
@@ -43,7 +41,7 @@ Sono uno sviluppatore e docente con una forte passione per la tecnologia.
 <img src="https://github.com/salisou/XFDelivery/blob/master/XFDelivery/image2.png?raw=true" width="250"/>
 </p>
 
----
+<img aling="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ### ⚛️ React + TypeScript TODO App  
 🔗 [Repo](https://github.com/salisou/React-Typescript-Project)  
@@ -51,7 +49,7 @@ Sono uno sviluppatore e docente con una forte passione per la tecnologia.
 <img src="https://github.com/salisou/React-Typescript-Project/blob/main/image.png" width="500"/>
 </p>
 
----
+<img aling="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ### 🧮 MAUI Calculator  
 🔗 [Repo](https://github.com/salisou/MauiCalculator.App)  
@@ -61,7 +59,7 @@ Sono uno sviluppatore e docente con una forte passione per la tecnologia.
 <img src="https://github.com/salisou/MauiCalculator.App/blob/master/CalcBlack.PNG" width="200"/>
 </p>
 
----
+<img aling="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ### 🔄 MAUI Unit Converter  
 🔗 [Repo](https://github.com/salisou/MauiVerter.App)  
@@ -70,7 +68,7 @@ Sono uno sviluppatore e docente con una forte passione per la tecnologia.
 <img src="https://github.com/salisou/MauiVerter.App/blob/master/Images/typeConverter.PNG?raw=true" width="250"/>
 </p>
 
----
+<img aling="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ### ☕ Coffee Shop UI  
 🔗 [Repo](https://github.com/salisou/MauiAppCoffeShop.App)  
@@ -78,7 +76,7 @@ Sono uno sviluppatore e docente con una forte passione per la tecnologia.
 <img src="https://github.com/salisou/MauiAppCoffeShop.App/blob/master/Home.PNG" width="400"/>
 </p>
 
----
+<img aling="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ### 🌐 ASP.NET Web App  
 🔗 [Repo](https://github.com/salisou/Web-app-MyStore)  
@@ -87,7 +85,7 @@ Sono uno sviluppatore e docente con una forte passione per la tecnologia.
 <img src="https://github.com/salisou/Web-app-MyStore/raw/master/Immagine1.png" width="300"/>
 </p>
 
----
+<img aling="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 🤖 Machine Learning Projects  
 🔗 [Repo](https://github.com/salisou/Machine-Learning-Projects)  
@@ -95,7 +93,7 @@ Sono uno sviluppatore e docente con una forte passione per la tecnologia.
 ✔ Analisi dati e modelli predittivi  
 ✔ Sperimentazione con algoritmi ML  
 
----
+<img aling="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 🆕 Progetti Recenti
 
@@ -109,7 +107,7 @@ Sono uno sviluppatore e docente con una forte passione per la tecnologia.
 ✔ Data Analysis  
 ✔ Script e tool personalizzati  
 
----
+<img aling="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 🧠 Competenze
 
@@ -125,7 +123,7 @@ Sono uno sviluppatore e docente con una forte passione per la tecnologia.
 ### 🗄️ Database
 `SQL Server` `MySQL` `PostgreSQL` `MongoDB`
 
----
+<img aling="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 📊 GitHub Dashboard
 
@@ -138,7 +136,7 @@ Sono uno sviluppatore e docente con una forte passione per la tecnologia.
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=salisou&theme=tokyonight&hide_border=true"/>
 </p>
 
----
+<img aling="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 🐍 Attività
 
@@ -146,7 +144,6 @@ Sono uno sviluppatore e docente con una forte passione per la tecnologia.
 <img src="https://github.com/salisou/salisou/blob/main/github-user-contribution.svg"/>
 </p>
 
----
 
 ## 🌍 Contattami
 
