@@ -5,7 +5,6 @@
 <h1 align="center">👋 Ciao, sono Moussa</h1>
 <h3 align="center">💻 Full Stack Developer | 👨‍🏫 Docente di Programmazione</h3>
 
----
 
 ## ✨ Chi sono
 
