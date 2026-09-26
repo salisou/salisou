@@ -1,157 +1,153 @@
-![](https://github.com/salisou/salisou/blob/main/linguaggi.jpeg?raw=true)
+# Moussa Salisou
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="400px" align="right"/>
+## Docente di programmazione | Full Stack Developer
 
-<h1 align="center">👋 Ciao, sono Moussa</h1>
-<h3 align="center">💻 Full Stack Developer | 👨‍🏫 Docente di Programmazione</h3>
+Sviluppo software e progetto percorsi formativi pratici, con particolare attenzione a **C#/.NET, Python, SQL Server, Web, API, Blazor, .NET MAUI e database**.
 
+Il mio approccio unisce sviluppo professionale e didattica: ogni progetto importante deve essere comprensibile, documentato, riproducibile e utile per imparare.
 
-## ✨ Chi sono
-
-Sono uno sviluppatore e docente con una forte passione per la tecnologia.
-
-🚀 Creo applicazioni moderne e scalabili  
-📚 Insegno programmazione con approccio pratico  
-🎯 Sempre aggiornato sulle nuove tecnologie  
-
-<img aling="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<p align="center"> <img src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif" width="100%" height="30%" alt="salisou" />  </p>
-## 💼 Cosa faccio
-
-🔹 **Sviluppo Software**
-- Web App moderne
-- Mobile App cross-platform
-- API e Backend
-- Database design
-
-🔹 **Docenza**
-- Corsi di programmazione: C#/.Net, Python, HTML, CSS, JavaScript, PHP, Symfony, Laravel e altri linguaggi e framework 
-- Mentoring
-- Formazione pratica e teoria 
-<img aling="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## 🚀 Progetti in evidenza
-
-### 📱 Xamarin Delivery App  
-🔗 [Repo](https://github.com/salisou/XFDelivery)  
-<p align="center">
-<img src="https://github.com/salisou/XFDelivery/blob/master/XFDelivery/image1.png?raw=true" width="250"/>
-<img src="https://github.com/salisou/XFDelivery/blob/master/XFDelivery/image2.png?raw=true" width="250"/>
-</p>
-
-<img aling="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-### ⚛️ React + TypeScript TODO App  
-🔗 [Repo](https://github.com/salisou/React-Typescript-Project)  
-<p align="center">
-<img src="https://github.com/salisou/React-Typescript-Project/blob/main/image.png" width="500"/>
-</p>
-
-<img aling="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-### 🧮 MAUI Calculator  
-🔗 [Repo](https://github.com/salisou/MauiCalculator.App)  
-<p align="center">
-<img src="https://github.com/salisou/MauiCalculator.App/blob/master/CalcLight.PNG" width="200"/>
-<img src="https://github.com/salisou/MauiCalculator.App/blob/master/CalcTheme.PNG" width="200"/>
-<img src="https://github.com/salisou/MauiCalculator.App/blob/master/CalcBlack.PNG" width="200"/>
-</p>
-
-<img aling="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-### 🔄 MAUI Unit Converter  
-🔗 [Repo](https://github.com/salisou/MauiVerter.App)  
-<p align="center">
-<img src="https://github.com/salisou/MauiVerter.App/blob/master/Images/MenuConvertter.PNG?raw=true" width="250"/>
-<img src="https://github.com/salisou/MauiVerter.App/blob/master/Images/typeConverter.PNG?raw=true" width="250"/>
-</p>
-
-<img aling="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-### ☕ Coffee Shop UI  
-🔗 [Repo](https://github.com/salisou/MauiAppCoffeShop.App)  
-<p align="center">
-<img src="https://github.com/salisou/MauiAppCoffeShop.App/blob/master/Home.PNG" width="400"/>
-</p>
-
-<img aling="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-### 🌐 ASP.NET Web App  
-🔗 [Repo](https://github.com/salisou/Web-app-MyStore)  
-<p align="center">
-<img src="https://github.com/salisou/Web-app-MyStore/blob/master/Immagine2.png" width="300"/>
-<img src="https://github.com/salisou/Web-app-MyStore/raw/master/Immagine1.png" width="300"/>
-</p>
-
-<img aling="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## 🤖 Machine Learning Projects  
-🔗 [Repo](https://github.com/salisou/Machine-Learning-Projects)  
-✔ Progetti di Machine Learning in Python  
-✔ Analisi dati e modelli predittivi  
-✔ Sperimentazione con algoritmi ML  
-
-<img aling="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## 🆕 Progetti Recenti
-
-### 💻 C# Projects
-✔ Applicazioni .NET moderne  
-✔ Desktop / Web / API  
-✔ Architetture scalabili  
-
-### 🐍 Python Projects
-✔ Automazione  
-✔ Data Analysis  
-✔ Script e tool personalizzati  
-
-<img aling="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## 🧠 Competenze
-
-### 👨‍💻 Linguaggi
-`C#` `Python` `JavaScript` `PHP` `SQL`
-
-### ⚙️ Tecnologie
-`.NET` `ASP.NET` `Blazor` `Xamarin` `.NET MAUI`
-
-### 🌐 Web
-`HTML` `CSS` `React` `Node.js`
-
-### 🗄️ Database
-`SQL Server` `MySQL` `PostgreSQL` `MongoDB`
-
-<img aling="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## 📊 GitHub Dashboard
-
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=salisou&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=salisou&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=salisou&theme=tokyonight&hide_border=true"/>
-</p>
-
-<img aling="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## 🐍 Attività
-
-<p align="center">
-<img src="https://github.com/salisou/salisou/blob/main/github-user-contribution.svg"/>
-</p>
-
-
-## 🌍 Contattami
-
-<p align="center">
-<a href="https://twitter.com/salisoumoussa7">Twitter</a> •
-<a href="https://www.linkedin.com/in/moussa-salisou/">LinkedIn</a> •
-<a href="https://stackoverflow.com/users/14309667/moussa">StackOverflow</a>
-</p>
+**Portfolio:** https://www.moussasalisou.com/  
+**LinkedIn:** https://www.linkedin.com/in/moussa-salisou/  
+**GitHub:** https://github.com/salisou/
 
 ---
 
-<h3 align="center">💡 "Costruisco software. Insegno competenze. Creo opportunità."</h3>
+## Aree principali
+
+| Area | Tecnologie |
+|---|---|
+| Backend | C#, .NET, ASP.NET Core, PHP, Laravel, Symfony, Node.js |
+| Frontend | HTML, CSS, JavaScript, Blazor, React |
+| Desktop / Mobile | WinForms, .NET MAUI, Xamarin |
+| Database | SQL Server, SQLite, MySQL, MongoDB |
+| Data | Python, Pandas, NumPy, Matplotlib, Data Analysis |
+| DevOps | Git, GitHub, Linux, Docker, CI/CD |
+| Architettura | REST API, Repository, Service Layer, Clean Architecture |
+
+---
+
+# Repository in evidenza
+
+## Formazione
+
+### SQL Server e T-SQL
+Corso professionale da zero ad avanzato con database didattico ScuolaDb, esercizi, laboratori, performance, sicurezza, backup/restore e progetto finale.
+
+→ https://github.com/salisou/sql-server-course
+
+### Python in 100 giorni
+Percorso progressivo dalla programmazione Python ai progetti avanzati, con documentazione e spiegazioni in italiano.
+
+→ https://github.com/salisou/Python-in-100-Days
+
+### Python Data Analyst
+Percorso dedicato a Python, analisi dati, Pandas, NumPy, Matplotlib e attività pratiche.
+
+→ https://github.com/salisou/Corso_Python_Data_Analyst
+
+### Git e GitHub CLI
+Corso strutturato per imparare Git, GitHub e workflow professionali.
+
+→ https://github.com/salisou/git-cli-course
+
+### .NET Roadmap 2026
+Percorso di studio e riferimento per l'ecosistema .NET moderno.
+
+→ https://github.com/salisou/.NET-Roadmap-2026
+
+---
+
+# Progetti professionali
+
+### ERP Aziendale
+Applicazione orientata alla gestione aziendale e alla progettazione di un sistema strutturato.
+
+→ https://github.com/salisou/ERP-Aziendale
+
+### Banking Clean Architecture
+Progetto orientato ad architettura pulita, separazione delle responsabilità e sviluppo .NET.
+
+→ https://github.com/salisou/BankingCleanArchitecture
+
+### Analisi Vendite SQL + Power BI
+Progetto di analisi dati con SQL e visualizzazione tramite Power BI.
+
+→ https://github.com/salisou/Analisi-Vendite-SQL-PowerBI
+
+### Python Extension Pack
+Estensione VS Code pensata per creare un ambiente Python completo per sviluppo e formazione.
+
+→ https://github.com/salisou/Python-Extension-Pack
+
+---
+
+# Stack tecnico
+
+**C# / .NET**  
+ASP.NET Core · Blazor · .NET MAUI · WinForms · REST API · Entity Framework Core
+
+**Python**  
+Python · Pandas · NumPy · Matplotlib · Tkinter · Data Analysis · AI/ML
+
+**Database**  
+SQL Server · T-SQL · SQLite · MySQL · MongoDB
+
+**Web**  
+HTML · CSS · JavaScript · React · Node.js · PHP · Laravel · Symfony
+
+**Tools**  
+Git · GitHub · Linux · Docker · VS Code · SQL Server Management Studio
+
+---
+
+# Metodo di lavoro
+
+Nei repository didattici e professionali cerco di mantenere una struttura coerente:
+
+1. README chiaro
+2. Obiettivi del progetto
+3. Prerequisiti
+4. Struttura delle cartelle
+5. Installazione
+6. Configurazione
+7. Esempi pratici
+8. Esercizi e laboratori quando il repository è formativo
+9. Architettura documentata
+10. Best practice e note tecniche
+
+---
+
+# Organizzazione del profilo
+
+Il mio GitHub è organizzato attorno a due filoni principali:
+
+**Sviluppo software**
+- Backend e API
+- Full Stack
+- .NET
+- Database
+- Desktop e mobile
+- Architetture applicative
+
+**Formazione**
+- C#/.NET
+- SQL Server/T-SQL
+- Python
+- Data Analysis
+- Git/GitHub
+- Web development
+- PHP/Laravel
+
+L'obiettivo è mantenere repository che possano essere utilizzati sia come **portfolio tecnico** sia come **materiale didattico professionale**.
+
+---
+
+## Contatti
+
+- Website: https://www.moussasalisou.com/
+- LinkedIn: https://www.linkedin.com/in/moussa-salisou/
+- GitHub: https://github.com/salisou
+
+---
+
+**© 2025 – Tutti i diritti riservati – Docente Moussa Salisou**
