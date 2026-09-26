@@ -100,6 +100,30 @@ Git · GitHub · Linux · Docker · VS Code · SQL Server Management Studio
 
 ---
 
+
+## Come leggere il repository
+
+Per evitare di confondere versioni storiche, corsi e progetti, la regola del profilo è:
+
+**Percorsi principali**
+- `sql-server-course`
+- `Python-in-100-Days`
+- `Corso_Python_Data_Analyst`
+- `git-cli-course`
+- `.NET-Roadmap-2026`
+- `Corso-completo-di-Laravel-e-PHP`
+
+**Portfolio tecnico**
+- `ERP-Aziendale`
+- `BankingCleanArchitecture`
+- `Analisi-Vendite-SQL-PowerBI`
+- `files-info-site`
+- `Python-Extension-Pack`
+- `BookStoreApp-BlazorFullStack-Edu`
+
+**Archivio didattico**
+Le vecchie edizioni, demo e repository di esercizi rimangono disponibili per conservare lo storico del lavoro. Prima di archiviarli definitivamente verrà verificato se contengono materiale da migrare nei percorsi principali.
+
 # Metodo di lavoro
 
 Nei repository didattici e professionali cerco di mantenere una struttura coerente:
