@@ -2,7 +2,7 @@
 
 ## Docente di programmazione | Full Stack Developer
 
-Sviluppo software e progetto percorsi formativi pratici, con particolare attenzione a **C#/.NET, Python, SQL Server, Web, API, Blazor, .NET MAUI e database**.
+Sviluppo software e progetto percorsi formativi pratici, con particolare attenzione a **C#/.NET, PHP, Delphi, Python, SQL Server, Web, API, Blazor, .NET MAUI e database**.
 
 Il mio approccio unisce sviluppo professionale e didattica: ogni progetto importante deve essere comprensibile, documentato, riproducibile e utile per imparare.
 
