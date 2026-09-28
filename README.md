@@ -117,7 +117,6 @@ Per evitare di confondere versioni storiche, corsi e progetti, la regola del pro
 - `ERP-Aziendale`
 - `BankingCleanArchitecture`
 - `Analisi-Vendite-SQL-PowerBI`
-- `files-info-site`
 - `Python-Extension-Pack`
 - `BookStoreApp-BlazorFullStack-Edu`
 
